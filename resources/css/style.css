@@ -4,10 +4,7 @@ body {
   font-family: Verdana;
   text-align: center;
   color: white;
-}
-p {
   font-size: 21px;
-  color: grey;
 }
 
 /* All links are the same color & size */
@@ -21,8 +18,19 @@ h1 {
   font-size: 50px;
   font-weight: normal;
 }
+
 /* Subheader styles */
 h2 {
   font-size: 42px;
   font-weight: 300;
+}
+
+/* Grey text override */
+.grey {
+  color: grey;
+}
+
+/* footer style */
+footer {
+  text-align: right;
 }
