@@ -1,0 +1,19 @@
+/* Initial styles for whole page: black background, centered white Verdana text */
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+}
+
+/* All links are the same color & size */
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+/* Main header size and font weight override */
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
