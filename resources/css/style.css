@@ -5,6 +5,10 @@ body {
   text-align: center;
   color: white;
 }
+p {
+  font-size: 21px;
+  color: grey;
+}
 
 /* All links are the same color & size */
 a {
